@@ -14,3 +14,12 @@ Key features:
 ![Screenshot of christianlobach.zsh-theme](https://raw.github.com/christianlobach/zsh-themes/screenshots/christianlobach.png)
 
 Screenshot taken in iTerm2.app on OS X, Menlo 14pt, Monokai theme
+
+
+## Installation
+Clone the repo into the custom themes directory
+```
+git clone https://github.com/christianlobach/zsh-themes.git ~/.oh-my-zsh/custom/themes
+```
+
+Set ```ZSH_THEME="christianlobach"``` in your ```~/.zshrc```
